@@ -1,0 +1,82 @@
+<?xml version = "1.0"?>
+<settings>
+    <ticket>
+        <type>TIME</type>
+        <time>30</time>
+        <unit>minute</unit>
+        <price>3.00</price>
+        <amount>10</amount>
+    </ticket>
+
+    <ticket>
+        <type>TIME</type>
+        <time>60</time>
+        <unit>minute</unit>
+        <price>4.50</price>
+        <amount>10</amount>
+    </ticket>
+
+    <ticket>
+        <type>TIME</type>
+        <time>90</time>
+        <unit>minute</unit>
+        <price>6.00</price>
+        <amount>10</amount>
+    </ticket>
+
+    <ticket>
+        <type>TIME</type>
+        <time>24</time>
+        <unit>hour</unit>
+        <price>11.00</price>
+        <amount>10</amount>
+    </ticket>
+
+    <ticket>
+        <type>SINGLE</type>
+        <kind>NORMAL</kind>
+        <price>3.00</price>
+        <amount>10</amount>
+    </ticket>
+
+    <ticket>
+        <type>SINGLE</type>
+        <kind>SPECIAL</kind>
+        <price>3.20</price>
+        <amount>10</amount>
+    </ticket>
+
+    <coin>
+        <value>0.10</value>
+        <amount>10</amount>
+    </coin>
+
+    <coin>
+        <value>0.20</value>
+        <amount>4</amount>
+    </coin>
+
+    <coin>
+        <value>0.50</value>
+        <amount>10</amount>
+    </coin>
+
+    <coin>
+        <value>1</value>
+        <amount>10</amount>
+    </coin>
+
+    <coin>
+        <value>2</value>
+        <amount>10</amount>
+    </coin>
+
+    <coin>
+        <value>5</value>
+        <amount>10</amount>
+    </coin>
+
+    <concession>
+        <value>0.35</value>
+    </concession>
+</settings>
